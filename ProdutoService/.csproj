@@ -1,0 +1,3 @@
+<ItemGroup>
+  <PackageReference Include="Swashbuckle.AspNetCore" Version="latest_version" />
+</ItemGroup>
